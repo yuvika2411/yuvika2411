@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Yuvika Jindal
 
 # 💫 About Me:
-Aspiring Software Developer with experience in frontend technologies and modern web frameworks. Focused on writing clean, efficient code and building responsive, user-friendly applications. Background in UI/UX helps in creating intuitive digital experiences. 🚀
+Aspiring Software Developer with experience in frontend technologies & modern web frameworks. Focused on writing clean, efficient code and building responsive, user-friendly applications. Background in UI/UX helps in creating intuitive digital experiences. 🚀
 
 
 ## 🌐 Socials:
