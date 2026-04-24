@@ -17,3 +17,4 @@ Aspiring Software Developer with experience in frontend technologies & modern we
 [![](https://komarev.com/ghpvc/?username=yuvika2411&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yuvika2411)
