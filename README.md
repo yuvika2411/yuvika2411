@@ -11,9 +11,10 @@ Aspiring Software Developer with experience in frontend technologies & modern we
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yuvika2411&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=yuvika2411&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuvika2411&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://streak-stats.demolab.com/?user=yuvika2411&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yuvika2411&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvika2411&theme=radical&no-frame=false&no-bg=true&margin-w=4)
