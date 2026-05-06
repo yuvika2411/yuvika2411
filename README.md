@@ -17,6 +17,7 @@ Aspiring Software Developer with experience in frontend technologies & modern we
 
 
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yuvika2411&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
