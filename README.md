@@ -1,7 +1,9 @@
 ## Hi there 👋 I am Yuvika Jindal
 
 # 💫 About Me:
-Aspiring Software Developer with experience in frontend technologies & modern web frameworks. Focused on writing clean, efficient code and building responsive, user-friendly applications. Background in UI/UX helps in creating intuitive digital experiences 🚀<br>
+Full Stack Developer and UI/UX Designer passionate about building scalable, user-friendly web applications and modern digital experiences. Skilled in React.js, Spring Boot, Tailwind CSS, and modern web technologies, with growing interest in Cloud and DevOps.
+
+AWS Certified Cloud Practitioner with hands-on experience in Docker, CI/CD, GitHub Actions, and responsive web development. I enjoy transforming ideas into clean, efficient, and impactful solutions while continuously learning new technologies. 🚀<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yuvika-jindal-6b3181328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuvikajindal241106@gmail.com) 
