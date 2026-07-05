@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 Full Stack Developer and UI/UX Designer passionate about building scalable, user-friendly web applications and modern digital experiences. Skilled in React.js, Spring Boot, Tailwind CSS, and modern web technologies, with growing interest in Cloud and DevOps.
-
+ 
 AWS Certified Cloud Practitioner with hands-on experience in Docker, CI/CD, GitHub Actions, and responsive web development. I enjoy transforming ideas into clean, efficient, and impactful solutions while continuously learning new technologies. 🚀<br>
 
 ## 🌐 Socials:
